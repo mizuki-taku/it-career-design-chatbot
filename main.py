@@ -18,8 +18,8 @@ load_dotenv()
 st.title("質問応答チャットボット（情報システム実験）")
 
 # フォルダのパス
-lecture_folder = "./information-systems-experiment"  # 講義資料フォルダ
-example_folder = "./information-systems-experiment_example"     # 回答例フォルダ
+lecture_folder = "./software-engineering"  # 講義資料フォルダ
+example_folder = "./software-engineering_example"     # 回答例フォルダ
 log_folder = "./logs"             # 会話ログ保存フォルダ
 
 # フォルダの存在確認
