@@ -15,7 +15,7 @@ from faiss_indexer import load_and_index_folder, search_index, create_faiss_inde
 load_dotenv()
 
 # Streamlitのヘッダー
-st.title("質問応答チャットボット（情報システム実験）")
+st.title("質問応答チャットボット（ソフトウェア工学）")
 
 # フォルダのパス
 lecture_folder = "./software-engineering"  # 講義資料フォルダ
