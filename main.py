@@ -93,8 +93,8 @@ if "messages" not in st.session_state:
         })
 
 # フォルダのパス
-lecture_folder = "./it-career-disign"  # 講義資料フォルダ
-example_folder = "./it-career-disign_example"     # 回答例フォルダ
+lecture_folder = "./it-career-design"  # 講義資料フォルダ
+example_folder = "./it-career-design_example"     # 回答例フォルダ
 log_folder = "./logs"             # 会話ログ保存フォルダ
 
 folders_to_load = [lecture_folder]
